@@ -2,3 +2,4 @@ MANIFEST
 Makefile.PL
 Trigraph.pm
 test.pl
+README
